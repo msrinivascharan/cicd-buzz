@@ -6,7 +6,7 @@ buzz = ('continuous testing', 'continuous integration',
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
     'seriously')
-verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts', "Srinivas charan mamidi@HDC2 4PM 6thDec19-986")
+verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts', "Srinivas charan mamidi@CDC2 8AM 7thJan20")
 
 def sample(l, n = 1):
     result = random.sample(l, n)
